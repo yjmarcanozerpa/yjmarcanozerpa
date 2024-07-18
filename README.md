@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Yndira Marcano</h1>
 <div align="center">   </div>
-<h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector</h3>
+<h3 align="center">A passionate DevOps Engineer. I work in Corporate IT Sector</h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
