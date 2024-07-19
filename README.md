@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yndiramarc](https://github.com/yndiramarc
+- 👨‍💻 All of my projects are available
 
 - 💬 Ask me about **DevOps & Cloud DevOps**
 
