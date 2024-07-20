@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Yndira" title="👋 Hi there! I'm Marcano"/>
+<h1 align="center">Hey Everyone 👋, I'm Yndira Marcano</h1><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <div align="justify">
 
 <div align="center">   </div>
-<h3 align="center">A passionate DevOps Engineer. I work in Corporate IT Sector</h3>
+<h3 align="center">A passionate DevOps Engineer 💻. I work in Corporate IT Sector</h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
